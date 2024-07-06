@@ -10,5 +10,7 @@ require (
 
 require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	github.com/nacos-group/nacos-sdk-go/v2 v2.2.3
+	github.com/nacos-group/nacos-sdk-go/v2 v2.2.6
 )
+
+replace github.com/nacos-group/nacos-sdk-go/v2 => github.com/Succeedwer/nacos-sdk-go/v2 v2.2.7-pre
